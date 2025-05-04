@@ -21,7 +21,7 @@ pip install PySide6 cryptography
 2. Скачайте программу:
 ```bash
 git clone https://github.com/neeroteam/MDC-Editor.git
-cd MDC-Editor-
+cd MDC-Editor
 ```
 
 ## Использование
